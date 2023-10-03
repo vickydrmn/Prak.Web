@@ -1,0 +1,16 @@
+body {
+  color: black;
+  font-weight: bold;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+}
+
+table {
+  background-color: gold;
+  border: ipx solid;
+}
+
+th {
+  border: 1px solid;
+  padding: 5px;
+}
